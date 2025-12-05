@@ -1,2 +1,4 @@
-# Existents (BROKEN) Multi Panel For GTAG!
+# Existents Multi Panel For GTAG!
 idk what im doing with my life but yea
+
+dont judge but im new to c# and i ask chatgpt to help cus it lowk awkward to ask others but yea:]
