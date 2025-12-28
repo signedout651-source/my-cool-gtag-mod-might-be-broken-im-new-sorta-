@@ -18,6 +18,8 @@ _using knowledge;_
 _private void class Class1()_
 
 _{_
+  
   _Console.logwrite("hi")_
+
 
 _}_
